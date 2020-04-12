@@ -5,3 +5,7 @@ available here: http://ffainelli.github.com/openal-example/
 
 will be later changed to OpenSL the new Khronos group specs
 
+
+@dated 12-04-2020
+
+as the khronos group specifications OPENSL is only for the embedded system architectures ... a special branch consisting the changes can be inccorporationg the changes but for now the main master is kept in-contact and are still the most upgraded one over the systems
